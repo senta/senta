@@ -1,4 +1,4 @@
-### Hi there 👋
+This is my old Github account. You can find me [@shotasenga](https://github.com/shotasenga). See you there :)
 
 <!--
 **senta/senta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
